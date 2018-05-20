@@ -3,7 +3,7 @@ import axios from '../../../axios';
 import { Link } from 'react-router-dom';
 
 import Post from '../../../components/Post/Post';
-import classes from './Posts.css';
+import './Posts.css';
 
 class Posts extends Component {
   state = {
